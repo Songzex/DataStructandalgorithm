@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c455a5c-3705-4eda-8165-c94e0dfa68ce" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/pojo/util/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Testone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructandalgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeCode/LeCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/TwoSunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListStruct/ListStruct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/DuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seek/Seek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seek/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/gorithm/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/ListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/stack/StackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeSruct/TreeSruct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/pojo/BinarySearchTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/pojo/BinaryTrees.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gf5k8ZsldnjrgPUHPlV36zY1xk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Data Struct and algorithm/DataStructandalgorithm/LeCode/src/com/scy/sum&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.scy.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data Struct and algorithm\DataStructandalgorithm\LeCode\src\com\scy\sum" />
+      <recent name="D:\Data Struct and algorithm\DataStructandalgorithm\ListStruct\src\com\scy\test" />
+      <recent name="D:\Data Struct and algorithm\DataStructandalgorithm\ListStruct\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.scy.test.Main (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
+      <module name="StackAndQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Test01" />
+      <module name="DataStructandalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.scy.test.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
+      <module name="ListStruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.scy.test.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
+      <module name="TreeSruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.scy.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
+      <module name="ListStruct" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.scy.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
+      <module name="StackAndQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.scy.test.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.com.scy.test.Main" />
+        <item itemvalue="Application.com.scy.test.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c455a5c-3705-4eda-8165-c94e0dfa68ce" name="Changes" comment="" />
+      <created>1666766940325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666766940325</updated>
+      <workItem from="1666766941810" duration="12960000" />
+      <workItem from="1667041936640" duration="19169000" />
+      <workItem from="1668390339509" duration="102000" />
+      <workItem from="1668390456769" duration="2108000" />
+      <workItem from="1679647107082" duration="19071000" />
+      <workItem from="1679840319055" duration="10469000" />
+      <workItem from="1680524334508" duration="13308000" />
+      <workItem from="1680956189558" duration="42000" />
+      <workItem from="1681024184197" duration="19746000" />
+      <workItem from="1681217586693" duration="43000" />
+      <workItem from="1681222161180" duration="2938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TreeSruct/src/com/scy/test/Main.java</url>
+          <line>5</line>
+          <properties class="com.scy.test.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tail" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructandalgorithm$Testone.ic" NAME="Testone Coverage Results" MODIFIED="1679878865654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scy.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructandalgorithm$com_scy_test_Main__2_.ic" NAME="com.scy.test.Main (2) Coverage Results" MODIFIED="1681225530376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scy.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
