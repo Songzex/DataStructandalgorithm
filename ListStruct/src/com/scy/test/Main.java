@@ -1,6 +1,6 @@
 package com.scy.test;
 
-import com.scy.pojo.LinkList;
+import com.scy.bst.LinkList;
 
 public class Main {
     public static void main(String[] args) {

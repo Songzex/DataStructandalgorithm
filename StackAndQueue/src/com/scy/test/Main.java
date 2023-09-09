@@ -1,6 +1,6 @@
 package com.scy.test;
 
-import com.scy.pojo.stack.ArrayStack;
+import com.scy.bst.stack.ArrayStack;
 
 public class Main {
     public static void main(String[] args) {

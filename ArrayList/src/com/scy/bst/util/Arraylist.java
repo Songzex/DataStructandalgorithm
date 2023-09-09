@@ -1,12 +1,12 @@
-package com.scy.pojo.util;
-
+package com.scy.bst.util;
+/**顺序表**/
 public class Arraylist<T> {
     /** 线性表的顺序存储 底层用到的是一个动态数组  开辟一快连续的空间
      *  面向设计
      *  含有的所有属性
      *  1.任意类型的元素  2.默认的数值设置 3.空间的大小   4. 定义任意的数组的类型指针
      *  含有的方法
-     *   初始化   构造方法  Arraylist
+     *   初始化   构造方法  Arraylist啊
      *   添加数据  add
      *   取数据  get
      *   判断是否为空 empty
@@ -55,7 +55,7 @@ public class Arraylist<T> {
             element[size++]=value;
 
     }
-/**获取顺序表的长度***/
+    /**获取顺序表的长度***/
    public  int  getSize(){
         return size;
    }
