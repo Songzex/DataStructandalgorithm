@@ -1,4 +1,4 @@
-package com.scy.pojo.queue;
+package com.scy.bst.queue;
 /**此类抽象的是循环队列     Queue   未测试
  * {
  *    初始化

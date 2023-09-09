@@ -1,4 +1,4 @@
-package com.scy.pojo;
+package com.scy.bst;
 /**
  * 双链表
  * **/

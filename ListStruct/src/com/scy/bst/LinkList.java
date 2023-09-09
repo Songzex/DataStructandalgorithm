@@ -1,4 +1,4 @@
-package com.scy.pojo;
+package com.scy.bst;
 /**抽象节点类的类**/
 class  ListNode{
     public  int val;// 链表的节点值

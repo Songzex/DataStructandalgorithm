@@ -4,97 +4,113 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c455a5c-3705-4eda-8165-c94e0dfa68ce" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/pojo/util/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Testone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructandalgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeCode/LeCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeCode/src/com/scy/sum/TwoSunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListStruct/ListStruct.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/DuLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seek/Seek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seek/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/gorithm/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/ListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/stack/StackImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeSruct/TreeSruct.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/pojo/BinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/pojo/BinaryTrees.java" afterDir="false" />
+    <list default="true" id="9c455a5c-3705-4eda-8165-c94e0dfa68ce" name="Changes" comment="12">
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/linklist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/linklist/SingLinkedCircularLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/linklist/SingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivideandConquer/DivideandConquer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivideandConquer/src/com/scy/Forkjoin/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivideandConquer/src/com/scy/test/CountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seek/src/com/scy/hash/HashSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seek/src/com/scy/ss/SequentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/avl/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeSruct/src/com/scy/rbt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/src/com/scy/test/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JianZhiOffer/src/main/java/com/scy/two/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JianZhiOffer/src/main/java/com/scy/two/Problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/DuLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/bst/DuLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListStruct/src/com/scy/pojo/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListStruct/src/com/scy/bst/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/ListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/bst/queue/ListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/bst/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackAndQueue/src/com/scy/pojo/stack/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackAndQueue/src/com/scy/bst/stack/StackImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "Songzex",
+      "author": "Songzex"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Songzex",
+    "author": "Songzex"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b8615a9a-3f53-4fac-974c-2fa2b0a1d44c" />
+        <option name="url" value="git@github.com:Songzex/DateStructe.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Gf5k8ZsldnjrgPUHPlV36zY1xk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Data Struct and algorithm/DataStructandalgorithm/LeCode/src/com/scy/sum&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/ChatGpts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.scy.pojo" />
@@ -105,7 +121,20 @@
       <recent name="D:\Data Struct and algorithm\DataStructandalgorithm\ListStruct\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.scy.test.Main (2)">
+  <component name="RunManager" selected="Application.CountTest">
+    <configuration name="CountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.test.CountTest" />
+      <module name="DivideandConquer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
       <module name="StackAndQueue" />
@@ -132,15 +161,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.scy.test.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
-      <module name="ListStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.scy.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="com.scy.Forkjoin.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scy.Forkjoin.Main" />
+      <module name="DivideandConquer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,13 +183,6 @@
     </configuration>
     <configuration name="com.scy.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
-      <module name="ListStruct" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.scy.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.scy.test.Main" />
       <module name="StackAndQueue" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountTest" />
+        <item itemvalue="Application.com.scy.Forkjoin.Main" />
         <item itemvalue="Application.com.scy.test.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.com.scy.test.Main" />
-        <item itemvalue="Application.com.scy.test.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,8 +222,49 @@
       <workItem from="1680956189558" duration="42000" />
       <workItem from="1681024184197" duration="19746000" />
       <workItem from="1681217586693" duration="43000" />
-      <workItem from="1681222161180" duration="2938000" />
+      <workItem from="1681222161180" duration="4076000" />
+      <workItem from="1681382311536" duration="1233000" />
+      <workItem from="1681446336696" duration="3537000" />
+      <workItem from="1681542520244" duration="7531000" />
+      <workItem from="1682407493490" duration="8568000" />
+      <workItem from="1683111240711" duration="11128000" />
+      <workItem from="1683813411949" duration="1039000" />
+      <workItem from="1685447590432" duration="4903000" />
+      <workItem from="1685624979149" duration="353000" />
+      <workItem from="1685699272046" duration="16000" />
+      <workItem from="1686063678185" duration="1686000" />
+      <workItem from="1687095260049" duration="87000" />
+      <workItem from="1688183077735" duration="4293000" />
+      <workItem from="1693662760028" duration="43557000" />
+      <workItem from="1694251358427" duration="733000" />
+      <workItem from="1694252525104" duration="327000" />
+      <workItem from="1694253533138" duration="498000" />
+      <workItem from="1694254047793" duration="2097000" />
     </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1681226328799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681226328799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12">
+      <option name="closed" value="true" />
+      <created>1694254251679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694254251680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="12">
+      <option name="closed" value="true" />
+      <created>1694256017434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694256017434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,20 +281,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/TreeSruct/src/com/scy/test/Main.java</url>
-          <line>5</line>
-          <properties class="com.scy.test.Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="tail" />

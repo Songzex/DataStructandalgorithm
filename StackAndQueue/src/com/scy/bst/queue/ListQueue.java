@@ -1,4 +1,4 @@
-package com.scy.pojo.queue;
+package com.scy.bst.queue;
 /**
  * 此类是队列的链式结构抽象
  * {

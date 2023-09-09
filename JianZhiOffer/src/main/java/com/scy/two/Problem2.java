@@ -1,7 +1,4 @@
 package com.scy.two;
-
-import com.scy.bst.LinkList;
-
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;

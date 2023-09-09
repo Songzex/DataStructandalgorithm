@@ -1,4 +1,4 @@
-package com.scy.pojo.stack;
+package com.scy.bst.stack;
 
 
 class ListNode {

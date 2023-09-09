@@ -1,6 +1,6 @@
 package com.scy.test;
 
-import com.scy.pojo.util.Arraylist;
+import com.scy.bst.util.Arraylist;
 
 public class Testone {
     public static void main(String[] args) {
